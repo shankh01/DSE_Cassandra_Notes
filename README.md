@@ -1,5 +1,5 @@
-# Apache Cassandra Admin Exam Notes
-Apache Cassandra 3.x Administrator Associate Certification Exam Notes
+# DSE_Cassandra_Notes
+Apache Cassandra 3.x Administrator/Developer Associate Certification Notes
 
 
 ### DS201: DataStax Enterprise 6 Foundations of Apache Cassandra - https://academy.datastax.com/resources/ds201-datastax-enterprise-6-foundations-of-apache-cassandra ###
